@@ -1,2 +1,10 @@
-gradio
+gradio[oauth]
 requests
+pandas
+openpyxl
+beautifulsoup4
+smolagents[litellm]
+huggingface_hub
+ddgs
+markdownify
+wikipedia-api
